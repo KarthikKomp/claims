@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="" label="Claims1" language="en" table="x_uotat_claims1_claims1">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Claims1</label>
+            <language>en</language>
+            <name>x_uotat_claims1_claims1</name>
+            <plural>Claims1s</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>kkompella</sys_created_by>
+            <sys_created_on>2016-09-30 13:37:04</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>7d1c5cb72b4e260080edb7e6a8da1516</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Claims1</sys_name>
+            <sys_package display_value="Claims1" source="x_uotat_claims1">7dbfbb5f2bc6260080edb7e6a8da156a</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Claims1">7dbfbb5f2bc6260080edb7e6a8da156a</sys_scope>
+            <sys_update_name>sys_documentation_x_uotat_claims1_claims1__en</sys_update_name>
+            <sys_updated_by>kkompella</sys_updated_by>
+            <sys_updated_on>2016-09-30 13:37:04</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

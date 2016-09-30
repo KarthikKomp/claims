@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="ua_table_licensing_config">
+    <ua_table_licensing_config action="INSERT_OR_UPDATE">
+        <is_fulfillment>true</is_fulfillment>
+        <name>x_uotat_claims1_claims1</name>
+        <owner_condition table="x_uotat_claims1_claims1">opened_by=javascript:gs.getUserID()^EQ<item endquery="false" field="opened_by" goto="false" newquery="false" operator="=" or="false" value="javascript:gs.getUserID()"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </owner_condition>
+        <sys_class_name>ua_table_licensing_config</sys_class_name>
+        <sys_created_by>kkompella</sys_created_by>
+        <sys_created_on>2016-09-30 13:37:04</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>791c5cb72b4e260080edb7e6a8da1519</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_uotat_claims1_claims1</sys_name>
+        <sys_package display_value="Claims1" source="x_uotat_claims1">7dbfbb5f2bc6260080edb7e6a8da156a</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Claims1">7dbfbb5f2bc6260080edb7e6a8da156a</sys_scope>
+        <sys_update_name>ua_table_licensing_config_791c5cb72b4e260080edb7e6a8da1519</sys_update_name>
+        <sys_updated_by>kkompella</sys_updated_by>
+        <sys_updated_on>2016-09-30 13:37:04</sys_updated_on>
+    </ua_table_licensing_config>
+</record_update>
